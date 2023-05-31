@@ -38,7 +38,7 @@ Using `next.js` file based api under `/pages/api`
 
 #### Success response
 
-```json lines
+```
 {
   "data": array,
   "message": string // optional
@@ -47,7 +47,7 @@ Using `next.js` file based api under `/pages/api`
 
 #### Error response
 
-```json lines
+```
 {
   "message": string,
   "status": number
